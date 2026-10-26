@@ -1,0 +1,36 @@
+
+WEEK 8 - LOCAL LLM INFERENCE
+MODEL COMPARISON OBSERVATIONS
+
+Models:
+1. Gemma 3 (1B)
+2. Llama 3.2 (1B)
+
+Total prompts tested: 10
+
+1. RESPONSE LENGTH
+Average Gemma word count:
+Average Llama word count:
+Model with longer average responses:
+
+2. RESPONSE QUALITY
+Model with clearer explanations:
+Model with better examples:
+Supporting prompt IDs:
+
+3. RESPONSE ACCURACY
+Model with higher accuracy ratings:
+Examples of correct or incorrect information:
+Supporting prompt IDs:
+
+4. PROMPT WORDING EXPERIMENT
+Vague prompt: Explain Python.
+Improved prompt: Explain Python programming
+to a beginner in 100 words. Include its main
+features and one simple real-world example.
+
+Observed difference:
+
+5. CONCLUSION
+Which model performed better overall?
+What did you learn about prompt engineering?

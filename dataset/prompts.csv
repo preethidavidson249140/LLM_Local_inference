@@ -1,0 +1,12 @@
+
+Prompt_ID,Domain,Complexity,Prompt
+1,Education,Simple,What is artificial intelligence?
+2,Education,Complex,Explain machine learning with a real-world example suitable for college students.
+3,Healthcare,Simple,What are the benefits of drinking water?
+4,Healthcare,Complex,Explain how AI can help doctors diagnose diseases and mention its limitations.
+5,Coding,Simple,What is Python programming?
+6,Coding,Complex,Write a Python program to check whether a number is prime and explain the logic.
+7,Travel,Simple,Name three famous tourist places in Tamil Nadu.
+8,Travel,Complex,Create a two-day travel itinerary for Chennai including historical places and beaches.
+9,Business,Simple,What is digital marketing?
+10,Business,Complex,Explain how a small catering business can use AI to improve customer service and reduce food waste.
